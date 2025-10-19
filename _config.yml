@@ -1,6 +1,0 @@
-title: "Cate & Marco"
-description: "Il nostro giorno - Cate & Marco"
-baseurl: "/Cate-Marco" # se usi username.github.io/repo lascia /repo qui; altrimenti vuoto
-url: "https://tuonome.github.io" # sostituisci con il tuo dominio GitHub Pages
-theme: minima # o rimuovi se vuoi usare CSS personalizzato
-plugins: []
