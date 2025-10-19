@@ -1,0 +1,6 @@
+title: "Cate & Marco"
+description: "Il nostro giorno - Cate & Marco"
+baseurl: "" # If you will publish at username.github.io/repo set this to "/repo"
+url: "https://tuonome.github.io" # replace with your GitHub Pages URL or custom domain
+theme: minima
+plugins: []
